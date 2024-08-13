@@ -1,4 +1,5 @@
 # Android-Aug-2024
+Bu Kurs C ve System Programlama Dernegi tarafindan düzenlenmektedir.
 KAYNAK GÖSTERMEK KOŞULUYLA HER TÜRLÜ ALINTI YAPILABİLİR
 
 #android
